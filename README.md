@@ -1,0 +1,2 @@
+# .github
+Automatad github profile
