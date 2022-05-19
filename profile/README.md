@@ -14,3 +14,5 @@
 -->
 
 Automatad, Inc. is a digital media products Co. that provides a suite of programmatic monetization solutions that drives efficiency and superior monetization at scale. Using our platform digital publishers can create, monetize, and optimize for the best ad experience. 
+
+![Animation](https://rand-xyz.vercel.app/api/hello)
